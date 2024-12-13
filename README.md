@@ -75,5 +75,5 @@ Models are evaluated using the following metrics:
 - Exploration of alternative feature engineering techniques.
 
 ## Author
-Developed by [Mr1necs]. Feel free to reach out for questions or collaborations!
+Developed by Mr1necs. Feel free to reach out for questions or collaborations!
 
